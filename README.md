@@ -82,6 +82,7 @@
 - [西红柿豆腐汤羹](./dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md)
 - [西葫芦炒鸡蛋](./dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md)
 - [洋葱炒鸡蛋](./dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md)
+- [西兰花炒胡萝卜](./dishes/vegetable_dish/西兰花炒胡萝卜.md)
 
 ### 荤菜
 
